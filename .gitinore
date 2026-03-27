@@ -1,0 +1,7 @@
+
+venv/
+.venv/
+BotCity/
+*.exe
+*.zip
+*.png
