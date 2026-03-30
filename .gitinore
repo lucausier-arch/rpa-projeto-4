@@ -8,11 +8,3 @@ BotCity/
 *.exe
 *.zip
 
-# Arquivos de Saída do SEU Robô (Evidências e Dados)
-# Ignoramos os arquivos dentro das pastas, mas mantemos as pastas vazias
-data/*.xlsx
-prints/*.png
-correcao/*.xlsx
-
-# Se quiser que o Excel de entrada NÃO vá para o GitHub por privacidade:
-dados_brutos.txt
