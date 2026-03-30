@@ -1,0 +1,41 @@
+Nome;CPF;Cargo
+Ana Silva;123.456.789-01;Analista de RH
+Bruno Souza;987.654.321-00;Desenvolvedor Python
+Carlos Lima;111.222.333-44;Gerente de Projetos
+Daniela Oliveira;555.666.777-88;Designer UX
+Eduardo Costa;CPF_INVALIDO_A;Analista de Dados
+Fernanda Rocha;222.333.444-55;Coordenadora de Marketing
+Gabriel Santos;999.888.777-66;Engenheiro de Software
+Helena Farias;000.111.222-33;Recepcionista
+Igor Batista;444.555.666-77;Suporte Técnico
+Julia Mendes;123.45;Estagiária
+Kevin Castro;777.888.999-00;Analista Financeiro
+Larissa Nunes;333.444.555-66;Gerente de Vendas
+Murilo Peixoto;888.777.666-55;Analista de Sistemas
+Natália Cruz;000.999.888-77;Social Media
+Otávio Moraes;123-456-789;Auxiliar Administrativo
+Patrícia Leite;666.555.444-33;Psicóloga Organizacional
+Ricardo Gomes;111.000.111-00;Diretor Comercial
+Sabrina Viana;999.000.999-11;Consultora de TI
+Thiago Ramos;222.111.222-33;Web Designer
+Ursula Melo;444.333.222-11;Analista de Logística
+Vitor Hugo;99.88.77.66;Motorista
+Wagner Antunes;777.666.555-44;Segurança Patrimonial
+Yara Marques;000.222.444-66;Contadora
+Zeca Pagodinho;333.222.111-00;Supervisor de Produção
+Alice Ferreira;555.444.333-22;Analista de QA
+Bernardo Alves;12345678901;Arquiteto de Soluções
+Camila Pires;98765432109;Analista de BI
+Diego Moreira;11122233344;Desenvolvedor Front-end
+Elisa Duarte;55566677788;Product Owner
+Felipe Guedes;ERR0_CPF_123;Técnico em Edificações
+Giovanna Lins;22233344455;Analista Jurídico
+Henrique Silva;99988877766;Especialista em Redes
+Isabela Torres;00011122233;Auxiliar de Almoxarifado
+João Pedro;44455566677;Desenvolvedor Back-end
+Leticia Maia;77788899900;Encarregada de DP
+Matheus Cavalcante;33344455566;Analista de Infraestrutura
+Nayara Frota;88877766655;Coordenadora de Vendas
+Pedro Augusto;00099988877;Analista de Sucesso do Cliente
+Renata Borges;66655544433;Gerente de Operações
+Samuel Trindade;11100011100;Analista de Projetos
