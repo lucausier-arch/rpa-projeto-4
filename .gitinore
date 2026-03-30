@@ -1,10 +1,4 @@
-# Pastas de Ambiente Virtual (Padrão)
 venv/
 .venv/
 __pycache__/
-
-# Arquivos da BotCity e Binários
-BotCity/
-*.exe
-*.zip
 
