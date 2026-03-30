@@ -1,41 +1,51 @@
-Nome;CPF;Cargo
-Ana Silva;123.456.789-01;Analista de RH
-Bruno Souza;987.654.321-00;Desenvolvedor Python
-Carlos Lima;111.222.333-44;Gerente de Projetos
-Daniela Oliveira;555.666.777-88;Designer UX
-Eduardo Costa;CPF_INVALIDO_A;Analista de Dados
-Fernanda Rocha;222.333.444-55;Coordenadora de Marketing
-Gabriel Santos;999.888.777-66;Engenheiro de Software
-Helena Farias;000.111.222-33;Recepcionista
-Igor Batista;444.555.666-77;Suporte Técnico
-Julia Mendes;123.45;Estagiária
-Kevin Castro;777.888.999-00;Analista Financeiro
-Larissa Nunes;333.444.555-66;Gerente de Vendas
-Murilo Peixoto;888.777.666-55;Analista de Sistemas
-Natália Cruz;000.999.888-77;Social Media
-Otávio Moraes;123-456-789;Auxiliar Administrativo
-Patrícia Leite;666.555.444-33;Psicóloga Organizacional
-Ricardo Gomes;111.000.111-00;Diretor Comercial
-Sabrina Viana;999.000.999-11;Consultora de TI
-Thiago Ramos;222.111.222-33;Web Designer
-Ursula Melo;444.333.222-11;Analista de Logística
-Vitor Hugo;99.88.77.66;Motorista
-Wagner Antunes;777.666.555-44;Segurança Patrimonial
-Yara Marques;000.222.444-66;Contadora
-Zeca Pagodinho;333.222.111-00;Supervisor de Produção
-Alice Ferreira;555.444.333-22;Analista de QA
-Bernardo Alves;12345678901;Arquiteto de Soluções
-Camila Pires;98765432109;Analista de BI
-Diego Moreira;11122233344;Desenvolvedor Front-end
-Elisa Duarte;55566677788;Product Owner
-Felipe Guedes;ERR0_CPF_123;Técnico em Edificações
-Giovanna Lins;22233344455;Analista Jurídico
-Henrique Silva;99988877766;Especialista em Redes
-Isabela Torres;00011122233;Auxiliar de Almoxarifado
-João Pedro;44455566677;Desenvolvedor Back-end
-Leticia Maia;77788899900;Encarregada de DP
-Matheus Cavalcante;33344455566;Analista de Infraestrutura
-Nayara Frota;88877766655;Coordenadora de Vendas
-Pedro Augusto;00099988877;Analista de Sucesso do Cliente
-Renata Borges;66655544433;Gerente de Operações
-Samuel Trindade;11100011100;Analista de Projetos
+NOME;CPF;CARGO;EMAIL;PIX;HORAS
+João Lucas Mota Auser;123.456.789-00;Dev Junior;joao.auser@email.com;joao.pix;165
+Ana Silva;23456789011,Dev Pleno,ana.silva@email.com,ana.pix,160
+Carlos Souza;34567890122;Dev Senior;carlos.s@email.com;carlos.pix;172
+Beatriz Lima;45678901233;Tech Lead;b.lima@email.com;beatriz.pix;160
+Marcos Rego;000.000.000-00;Dev Junior;marcos.erro@email;marcos.pix;168
+Elena Pires;56789012344;Dev Pleno;elena.p@email.com;elena.pix;160
+Ricardo Ohara;678.901.234-55;Dev Pleno;ricardo.o@email.com;ricardo.pix;180
+Fabiana Costa;78901234566;Dev Senior;fabiana.c@email.com;fabi.pix;160
+Gabriel Monte;890.123.456-77;Dev Junior;gabriel.m@email.com;gab.pix;162
+Helena Rosa;90123456788;Dev Pleno;helena.r@email.com;helena.pix;160
+Igor Matos;012.345.678-99;Dev Pleno;igor.m@email.com;igor.pix;175
+Julia Paiva;12345678901;Dev Senior;julia.p@email.com;ju.pix;160
+Kevin Silva;23456789012;Dev Junior;kevin.s@email.com;kevin.pix;160
+Larissa Luz;34567890123;Dev Pleno;larissa.l@email.com;lari.pix;164
+Murilo Vaz;45678901234;Dev Pleno;murilo.v@email.com;mu.pix;160
+Natália Noa;56789012345;Dev Senior;natalia.n@email.com;nat.pix;168
+Otávio O.;678.901.234-56;Dev Lead;otavio.o@email.com;ota.pix;160
+Priscila P.;78901234567;Dev Pleno;priscila.p@email.com;pri.pix;170
+Queiroz Q.;89012345678;Dev Junior;queiroz.q@email.com;q.pix;160
+Rita Rocha;90123456789;Dev Pleno;rita.r@email.com;rita.pix;160
+Samuel S.;01234567890;Dev Pleno;samuel.s@email.com;sam.pix;166
+Talita T.;123.456.789-11;Dev Senior;talita.t@email.com;tali.pix;160
+Uriel U.;23456789012;Dev Junior;uriel.u@email.com;uri.pix;160
+Vitor V.;34567890123;Dev Pleno;vitor.v@email.com;vitor.pix;178
+Wendel W.;456.789.012-34;Dev Senior;wendel.w@email.com;wen.pix;160
+Xavier X.;56789012345;Dev Pleno;xavier.x@email.com;xav.pix;160
+Yara Y.;67890123456;Dev Pleno;yara.y@email.com;yara.pix;162
+Zeca Z.;78901234567;Dev Junior;zeca.z@email.com;zeca.pix;160
+Arthur A.;89012345678;Dev Pleno;arthur.a@email.com;art.pix;160
+Bruna B.;90123456789;Dev Senior;bruna.b@email.com;bru.pix;185
+Caio C.;111.222.333;Dev Pleno;caio.erro@dominio;caio.pix;160
+Dora D.;123.456.789-22;Dev Lead;dora.d@email.com;dora.pix;160
+Enzo E.;23456789033;Dev Junior;enzo.e@email.com;enzo.pix;160
+Flávia F.;345.678.901-44;Dev Pleno;flavia.f@email.com;fla.pix;170
+Guto G.;45678901255;Dev Pleno;guto.g@email.com;guto.pix;160
+Hilda H.;567.890.123-66;Dev Senior;hilda.h@email.com;hilda.pix;160
+Ivone I.;67890123477;Dev Junior;ivone.i@email.com;ivone.pix;164
+Jorge J.;78901234588;Dev Pleno;jorge.j@email.com;jorge.pix;160
+Kelly K.;890.123.456-99;Dev Pleno;kelly.k@email.com;kelly.pix;160
+Luís L.;90123456700;Dev Senior;luis.l@email.com;luis.pix;160
+Mário M.;01234567811;Dev Lead;mario.m@email.com;mario.pix;170
+Nara N.;INVALID_CPF;Dev Junior;nara.n@email.com;nara.pix;160
+Olavo O.;12345678922;Dev Pleno;olavo.o@email.com;olavo.pix;160
+Paula P.;234.567.890-33;Dev Pleno;paula.p@email.com;paula.pix;160
+Quico Q.;34567890144;Dev Senior;quico.q@email.com;quico.pix;160
+Rosa R.;45678901255;Dev Junior;rosa.r@email.com;rosa.pix;160
+Sandro S.;56789012366;Dev Pleno;sandro.s@email.com;sandro.pix;160
+Tiago T.;67890123477;Dev Pleno;tiago.t@email.com;tiago.pix;172
+Ulysses U.;78901234588;Dev Senior;ulysses.u@email.com;uly.pix;160
+Vanda V.;000.000.000-00;Dev Lead;vanda.v@email.com;vanda.pix;160
