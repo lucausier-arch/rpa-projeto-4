@@ -1,0 +1,17 @@
+# Ambiente Virtual
+venv/
+.venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Dados e Saídas (Privacidade)
+data/output/
+correcao/
+prints/
+logs/
+
+# Arquivos do Sistema
+.DS_Store
+Thumbs.db
