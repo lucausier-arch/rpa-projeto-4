@@ -1,0 +1,107 @@
+[31/03/2026 17:22:47] 🚀 Iniciando processamento do robô.
+[31/03/2026 17:22:53] ❌ Erro no formulário para João Lucas: Locator.fill: Target page, context or browser has been closed
+Call log:
+  - waiting for get_by_label("Nome completo")
+
+[31/03/2026 17:22:53] ❌ Erro no formulário para Ana Silva: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Carlos Souza: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Beatriz Lima: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ⚠️ Rejeitado: Marcos Rego | Motivo: CPF inválido
+[31/03/2026 17:22:53] ❌ Erro no formulário para Elena Pires: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Ricardo Ohara: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Fabiana Costa: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Gabriel Monte: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Helena Rosa: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ⚠️ Rejeitado: Igor Matos | Motivo: CPF inválido
+[31/03/2026 17:22:53] ❌ Erro no formulário para Julia Paiva: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Kevin Silva: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Larissa Luz: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Murilo Vaz: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Natália Noa: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Otávio Oliveira: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Priscila Perla: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Queiroz Quintas: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Rita Rocha: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ⚠️ Rejeitado: Samuel Santos | Motivo: CPF inválido
+[31/03/2026 17:22:53] ❌ Erro no formulário para Talita Terra: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Uriel Umberto: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Vitor Valente: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Wendel Wand: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Xavier Xisto: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Yara Yan: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Zeca Ziraldo: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Arthur Antunes: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Bruna Bruno: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Caio Castro: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Dora Dantas: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Enzo Eiras: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Flávia Farias: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Guto Gouveia: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Hilda Horta: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Ivone Iara: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Jorge Justo: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Kelly Kléber: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Luís Lira: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ⚠️ Rejeitado: Mário Matos | Motivo: CPF inválido
+[31/03/2026 17:22:53] ❌ Erro no formulário para Nara Nogueira: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Olavo Olavo: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Paula Pires: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Quico Quirino: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Rosa Rosa: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Sandro Santos: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Tiago Terra: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ❌ Erro no formulário para Ulysses Umberto: Page.goto: Target page, context or browser has been closed
+[31/03/2026 17:22:53] ⚠️ Rejeitado: Vanda Valente | Motivo: CPF inválido
+[31/03/2026 17:22:54] 🏁 Robô finalizou todas as tarefas.
+[31/03/2026 17:23:30] 🚀 Iniciando processamento do robô.
+[31/03/2026 17:23:38] ✅ Sucesso: João Lucas processado e enviado.
+[31/03/2026 17:23:42] ✅ Sucesso: Ana Silva processado e enviado.
+[31/03/2026 17:23:46] ✅ Sucesso: Carlos Souza processado e enviado.
+[31/03/2026 17:23:49] ✅ Sucesso: Beatriz Lima processado e enviado.
+[31/03/2026 17:23:49] ⚠️ Rejeitado: Marcos Rego | Motivo: CPF inválido
+[31/03/2026 17:23:52] ✅ Sucesso: Elena Pires processado e enviado.
+[31/03/2026 17:23:56] ✅ Sucesso: Ricardo Ohara processado e enviado.
+[31/03/2026 17:23:59] ✅ Sucesso: Fabiana Costa processado e enviado.
+[31/03/2026 17:24:03] ✅ Sucesso: Gabriel Monte processado e enviado.
+[31/03/2026 17:24:06] ✅ Sucesso: Helena Rosa processado e enviado.
+[31/03/2026 17:24:06] ⚠️ Rejeitado: Igor Matos | Motivo: CPF inválido
+[31/03/2026 17:24:09] ✅ Sucesso: Julia Paiva processado e enviado.
+[31/03/2026 17:24:13] ✅ Sucesso: Kevin Silva processado e enviado.
+[31/03/2026 17:24:17] ✅ Sucesso: Larissa Luz processado e enviado.
+[31/03/2026 17:24:21] ✅ Sucesso: Murilo Vaz processado e enviado.
+[31/03/2026 17:24:24] ✅ Sucesso: Natália Noa processado e enviado.
+[31/03/2026 17:24:27] ✅ Sucesso: Otávio Oliveira processado e enviado.
+[31/03/2026 17:24:30] ✅ Sucesso: Priscila Perla processado e enviado.
+[31/03/2026 17:24:35] ✅ Sucesso: Queiroz Quintas processado e enviado.
+[31/03/2026 17:24:38] ✅ Sucesso: Rita Rocha processado e enviado.
+[31/03/2026 17:24:38] ⚠️ Rejeitado: Samuel Santos | Motivo: CPF inválido
+[31/03/2026 17:24:41] ✅ Sucesso: Talita Terra processado e enviado.
+[31/03/2026 17:24:45] ✅ Sucesso: Uriel Umberto processado e enviado.
+[31/03/2026 17:24:49] ✅ Sucesso: Vitor Valente processado e enviado.
+[31/03/2026 17:24:53] ✅ Sucesso: Wendel Wand processado e enviado.
+[31/03/2026 17:24:58] ✅ Sucesso: Xavier Xisto processado e enviado.
+[31/03/2026 17:25:01] ✅ Sucesso: Yara Yan processado e enviado.
+[31/03/2026 17:25:04] ✅ Sucesso: Zeca Ziraldo processado e enviado.
+[31/03/2026 17:25:07] ✅ Sucesso: Arthur Antunes processado e enviado.
+[31/03/2026 17:25:11] ✅ Sucesso: Bruna Bruno processado e enviado.
+[31/03/2026 17:25:15] ✅ Sucesso: Caio Castro processado e enviado.
+[31/03/2026 17:25:18] ✅ Sucesso: Dora Dantas processado e enviado.
+[31/03/2026 17:25:22] ✅ Sucesso: Enzo Eiras processado e enviado.
+[31/03/2026 17:25:25] ✅ Sucesso: Flávia Farias processado e enviado.
+[31/03/2026 17:25:29] ✅ Sucesso: Guto Gouveia processado e enviado.
+[31/03/2026 17:25:32] ✅ Sucesso: Hilda Horta processado e enviado.
+[31/03/2026 17:25:36] ✅ Sucesso: Ivone Iara processado e enviado.
+[31/03/2026 17:25:39] ✅ Sucesso: Jorge Justo processado e enviado.
+[31/03/2026 17:25:42] ✅ Sucesso: Kelly Kléber processado e enviado.
+[31/03/2026 17:25:46] ✅ Sucesso: Luís Lira processado e enviado.
+[31/03/2026 17:25:46] ⚠️ Rejeitado: Mário Matos | Motivo: CPF inválido
+[31/03/2026 17:25:49] ✅ Sucesso: Nara Nogueira processado e enviado.
+[31/03/2026 17:25:58] ✅ Sucesso: Olavo Olavo processado e enviado.
+[31/03/2026 17:26:07] ✅ Sucesso: Paula Pires processado e enviado.
+[31/03/2026 17:26:16] ✅ Sucesso: Quico Quirino processado e enviado.
+[31/03/2026 17:26:27] ✅ Sucesso: Rosa Rosa processado e enviado.
+[31/03/2026 17:26:37] ✅ Sucesso: Sandro Santos processado e enviado.
+[31/03/2026 17:26:47] ✅ Sucesso: Tiago Terra processado e enviado.
+[31/03/2026 17:26:58] ✅ Sucesso: Ulysses Umberto processado e enviado.
+[31/03/2026 17:27:00] ⚠️ Rejeitado: Vanda Valente | Motivo: CPF inválido
+[31/03/2026 17:27:01] 🏁 Robô finalizou todas as tarefas.
