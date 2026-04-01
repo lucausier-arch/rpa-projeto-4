@@ -1,3 +1,4 @@
+# biliotecas 
 import pandas as pd
 from playwright.sync_api import sync_playwright
 import time
@@ -12,7 +13,7 @@ TABELA_CARGOS = {
     "tech lead":  {"base": 17000.00, "extra": 106.25},
     "dev lead":   {"base": 17000.00, "extra": 106.25}
 }
-
+# link do formulario de registro 
 URL_FORMULARIO = "https://docs.google.com/forms/d/e/1FAIpQLSc7ChD8xBzZsUNd3pz_3sxn5xlq4cSrjZZrXRHDv8YXdgQslA/viewform?usp=header"
 
 # --- NOVA FUNÇÃO DE LOG ---

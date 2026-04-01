@@ -1,0 +1,55 @@
+@startuml
+title Fluxo Detalhado do Robô RPA - Projeto 4
+
+skinparam BoxPadding 10
+skinparam ParticipantPadding 20
+
+box "Sistema de Arquivos" #LightBlue
+    participant "data/entrada/\ndados_brutos.txt" as TXT
+    participant "logs/\nexecucao.txt" as Log
+    participant "correcao/\nprecisa_corrigir.xlsx" as ErroExcel
+    participant "data/saida/\ncandidatos_finalizados.xlsx" as SucessoExcel
+end box
+
+box "Robô Python (main.py)" #LightYellow
+    participant "Início" as Init
+    participant "Validação & Saneamento" as Valida
+    participant "Cálculo Salário\n(Base + 50% Extra)" as Calc
+end box
+
+box "Web (Playwright)" #LightGreen
+    participant "Google Forms" as Form
+    participant "prints/" as Prints
+end box
+
+Init -> Log : registrar_log("🚀 Iniciando")
+Init -> TXT : pd.read_csv()
+TXT --> Init : Retorna DataFrame
+
+loop Para cada linha no DataFrame
+    Init -> Valida : Limpa CPF e Horas
+    
+    alt CPF inválido OR Email sem @ OR Cargo não cadastrado
+        Valida -> Log : registrar_log("⚠️ Rejeitado")
+        Valida -> ErroExcel : Adiciona à lista_correcao
+    else Dados Válidos
+        Init -> Calc : calcular_salario_final()
+        Calc --> Init : Retorna Salário Final
+        
+        group Automação Web
+            Init -> Form : page.goto(URL_FORMULARIO)
+            Init -> Form : fill(Nome, CPF, Cargo, Email, PIX, Horas, Salário)
+            Init -> Form : click("Enviar")
+            Form --> Init : Confirmação
+            Init -> Prints : page.screenshot("sucesso_CPF.png")
+            Init -> Log : registrar_log("✅ Sucesso")
+            Init -> SucessoExcel : Adiciona aos resultados_finais
+        end
+    end
+end
+
+Init -> ErroExcel : Salvar arquivo .xlsx (se houver erros)
+Init -> SucessoExcel : Salvar arquivo .xlsx (se houver sucessos)
+Init -> Log : registrar_log("🏁 Finalizado")
+
+@enduml
