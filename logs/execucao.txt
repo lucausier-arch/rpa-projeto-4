@@ -782,3 +782,55 @@ Call log:
 [08/04/2026 00:42:20] ✅ Sucesso: Ulysses Umberto enviado.
 [08/04/2026 00:42:20] ⚠️ Erro de Cadastro: Vanda Valente | Motivo: CPF inválido
 [08/04/2026 00:42:21] 🏁 Processo finalizado. Tudo salvo em: data/saida\finalizados6
+[08/04/2026 05:16:54] 🚀 Iniciando processamento do robô.
+[08/04/2026 05:17:13] ✅ Sucesso: João Lucas enviado.
+[08/04/2026 05:17:13] 📉 Injustificado: Ana Silva (152.0h).
+[08/04/2026 05:17:17] ✅ Sucesso: Carlos Souza enviado.
+[08/04/2026 05:17:24] ✅ Sucesso: Beatriz Lima enviado.
+[08/04/2026 05:17:24] ⚠️ Erro de Cadastro: Marcos Rego | Motivo: CPF inválido
+[08/04/2026 05:17:32] ✅ Sucesso: Elena Pires enviado.
+[08/04/2026 05:17:40] ✅ Sucesso: Ricardo Ohara enviado.
+[08/04/2026 05:17:48] ✅ Sucesso: Fabiana Costa enviado.
+[08/04/2026 05:17:56] ✅ Sucesso: Gabriel Monte enviado.
+[08/04/2026 05:17:56] 📉 Injustificado: Helena Rosa (145.0h).
+[08/04/2026 05:17:56] ⚠️ Erro de Cadastro: Igor Matos | Motivo: CPF inválido
+[08/04/2026 05:18:04] ✅ Sucesso: Julia Paiva enviado.
+[08/04/2026 05:18:13] ✅ Sucesso: Kevin Silva enviado.
+[08/04/2026 05:18:21] ✅ Sucesso: Larissa Luz enviado.
+[08/04/2026 05:18:29] ✅ Sucesso: Murilo Vaz enviado.
+[08/04/2026 05:18:38] ✅ Sucesso: Natália Noa enviado.
+[08/04/2026 05:18:45] ✅ Sucesso: Otávio Oliveira enviado.
+[08/04/2026 05:18:54] ✅ Sucesso: Priscila Perla enviado.
+[08/04/2026 05:18:54] 📉 Injustificado: Queiroz Quintas (158.0h).
+[08/04/2026 05:19:02] ✅ Sucesso: Rita Rocha enviado.
+[08/04/2026 05:19:02] ⚠️ Erro de Cadastro: Samuel Santos | Motivo: CPF inválido
+[08/04/2026 05:19:10] ✅ Sucesso: Talita Terra enviado.
+[08/04/2026 05:19:18] ✅ Sucesso: Uriel Umberto enviado.
+[08/04/2026 05:19:26] ✅ Sucesso: Vitor Valente enviado.
+[08/04/2026 05:19:26] 📉 Injustificado: Wendel Wand (130.0h).
+[08/04/2026 05:19:34] ✅ Sucesso: Xavier Xisto enviado.
+[08/04/2026 05:19:42] ✅ Sucesso: Yara Yan enviado.
+[08/04/2026 05:19:50] ✅ Sucesso: Zeca Ziraldo enviado.
+[08/04/2026 05:19:58] ✅ Sucesso: Arthur Antunes enviado.
+[08/04/2026 05:20:08] ✅ Sucesso: Bruna Bruno enviado.
+[08/04/2026 05:20:14] ✅ Sucesso: Caio Castro enviado.
+[08/04/2026 05:20:23] ✅ Sucesso: Dora Dantas enviado.
+[08/04/2026 05:20:30] ✅ Sucesso: Enzo Eiras enviado.
+[08/04/2026 05:20:38] ✅ Sucesso: Flávia Farias enviado.
+[08/04/2026 05:20:47] ✅ Sucesso: Guto Gouveia enviado.
+[08/04/2026 05:20:55] ✅ Sucesso: Hilda Horta enviado.
+[08/04/2026 05:21:03] ✅ Sucesso: Ivone Iara enviado.
+[08/04/2026 05:21:11] ✅ Sucesso: Jorge Justo enviado.
+[08/04/2026 05:21:19] ✅ Sucesso: Kelly Kléber enviado.
+[08/04/2026 05:21:27] ✅ Sucesso: Luís Lira enviado.
+[08/04/2026 05:21:27] ⚠️ Erro de Cadastro: Mário Matos | Motivo: CPF inválido
+[08/04/2026 05:21:27] 📉 Injustificado: Nara Nogueira (140.0h).
+[08/04/2026 05:21:35] ✅ Sucesso: Olavo Olavo enviado.
+[08/04/2026 05:21:43] ✅ Sucesso: Paula Pires enviado.
+[08/04/2026 05:21:51] ✅ Sucesso: Quico Quirino enviado.
+[08/04/2026 05:21:59] ✅ Sucesso: Rosa Rosa enviado.
+[08/04/2026 05:22:07] ✅ Sucesso: Sandro Santos enviado.
+[08/04/2026 05:22:16] ✅ Sucesso: Tiago Terra enviado.
+[08/04/2026 05:22:24] ✅ Sucesso: Ulysses Umberto enviado.
+[08/04/2026 05:22:24] ⚠️ Erro de Cadastro: Vanda Valente | Motivo: CPF inválido
+[08/04/2026 05:22:25] 🏁 Processo finalizado. Tudo salvo em: data/saida\finalizados7
