@@ -9,6 +9,10 @@ __pycache__/
 # Arquivos do Sistema
 .DS_Store
 Thumbs.db
-
+.venv/
+__pycache__/
+data/saida/
+prints/
+logs/
 
 prints/
